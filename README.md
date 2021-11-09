@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Princhi 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Princhi 
  
 <a href="https://www.linkedin.com/in/princhi-pawan-saikia/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -19,9 +19,28 @@
  <br />
  
 ### About Me 🚀
-🎓 I’m an Front-End web developer & a student pursuing my B.Tech in NIT, Silchar(Computer Science & Engineering). <br />
-👨‍💻 I enjoy learning new things.
- <br /> <br />
+🎓 I’m an Front-End web developer & a student pursuing my B.Tech in NIT, Silchar (Computer Science & Engineering). <br />
+👨‍💻 I'm deeply passionate about software development & innovations & 📕 I enjoy learning new things.
+ <br /> 
+ 
+ ### Tech I'm familier with <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="22px">
+ 
+ -  `Java`
+ -  `C++`
+ -  `C`
+  -  `Html`
+  -  `Css`
+  -  `JavaScript`
+  -  `React Js`
+  -  `Particle Js`
+  -  `Hbs`
+  -  `Node Js`
+  -  `Mongodb`
+  -  `Mongoose`
+  -  `Express`
+  
+
+ 
 ### Honors & Awards 🏅
 
 * Secured second position in JEC Hackathon :star2:.
