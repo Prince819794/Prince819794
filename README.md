@@ -43,7 +43,7 @@
  
 ### Honors & Awards 🏅
 
-* Secured second position in JEC Hackathon :star2:.
+* Secured second position in JEC Hackathon ([Aashray website](https://aashroyuc.netlify.app/)) :star2:.
 * Won the CSS wars (Front End) organised by Computer Science Society (NIT, Silchar):dizzy:.
  <br/>
  
