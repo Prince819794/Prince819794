@@ -45,6 +45,7 @@
 
 * Secured second position in JEC Hackathon ([Aashray website](https://aashroyuc.netlify.app/)) :star2:.
 * Won the CSS wars (Front End) organised by Computer Science Society (NIT, Silchar):dizzy:.
+* Completed @Hacktober_fest with 10 successfull PRs 🤠 .
  <br/>
  
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Prince819794&show_icons=true&hide_border=true)
