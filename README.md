@@ -32,6 +32,7 @@
   -  `Css`
   -  `JavaScript`
   -  `React Js`
+  -  `Next Js`
   -  `Particle Js`
   -  `Hbs`
   -  `Node Js`
