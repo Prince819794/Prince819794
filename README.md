@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/princhi-pawan-saikia/">
   <img align="left" width="24px"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
 </a>
-<a href="mailto:saikiapp9@gmail.com">
-  <img align="left" width="26px" src="https://icons8.com/icons/set/gmail" />
-</a>
 <a href="https://www.facebook.com/prinze.xaikia.3">
   <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
 </a>
