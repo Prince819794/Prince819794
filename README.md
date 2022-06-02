@@ -6,8 +6,8 @@
 <a href="mailto:saikiapp9@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.facebook.com/prinze.xaikia.3">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+<a href="mailto:saikiapp9@gmail.com">
+  <img align="left" width="26px" src="https://icons8.com/icons/set/gmail" />
 </a>
 <a href="https://www.facebook.com/prinze.xaikia.3">
   <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
