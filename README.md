@@ -9,6 +9,9 @@
 <a href="https://www.facebook.com/prinze.xaikia.3">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
+<a href="https://www.facebook.com/prinze.xaikia.3">
+  <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
+</a>
 <a href="https://www.instagram.com/_bug_creator_/">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
