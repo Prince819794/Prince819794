@@ -1,5 +1,7 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">, I'm [Princhi](https://prince819794.github.io/)
- 
+<h1 align="left"> < Hello Coders🚀, I'm Princhi<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+
+🔵🟡🔴🟢🟠
+  <br /><br />
 <a href="https://www.linkedin.com/in/princhi-pawan-saikia/">
   <img align="left" width="40" src="https://img.icons8.com/fluency/48/000000/linkedin.png"  />
 </a>
